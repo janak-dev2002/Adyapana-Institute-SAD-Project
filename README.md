@@ -113,7 +113,7 @@ Before running this application, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/janak-dev2002/Adyapana-Institute-SAD-Project.git
 cd Adyapana_Institute
 ```
 
@@ -329,18 +329,9 @@ This project is developed for educational purposes as part of the Software Appli
 
 ## 👨‍💻 Developer
 
-**Student ID**: 94762  
+**Name**: Janaka Sangeeth  
 **Course**: Software Application Development (SAD)  
 **Assignment**: Assignment 2 - School Management System  
 **Institute**: Java Institute
 
-## 📞 Support
-
-For support and queries regarding this project:
-- Create an issue in the repository
-- Contact the development team
-- Refer to the documentation
-
 ---
-
-**Note**: This is an educational project developed for learning purposes. Please ensure you have proper licensing for any commercial use of the included libraries and themes.
