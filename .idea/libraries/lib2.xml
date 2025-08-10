@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-intellij-themes-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jasperreports-6.20.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swing-time-picker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/TimingFramework-0.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
