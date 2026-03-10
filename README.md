@@ -23,11 +23,6 @@ A comprehensive School Management System built with Java Swing and MySQL for Ady
 
 ## ✨ Features
 
-### 🔐 Authentication & Security
-- **Admin Login System**: Secure multi-admin login with role-based access
-- **Admin Type Selection**: Different administrative roles with specific permissions
-- **Session Management**: Secure user session handling
-
 ### 👥 Student Management
 - **Student Registration**: Complete student profile management with photo upload
 - **Personal Information**: Store NIC, DOB, gender, contact details
