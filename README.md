@@ -283,31 +283,6 @@ The system generates professional reports using JasperReports:
 - Date range filtering
 - Student-specific reports
 
-## 🎨 Themes
-
-The application supports multiple modern themes powered by FlatLaf:
-
-1. **Arc Dark Theme**: Dark theme with blue accents
-2. **Carbon Theme**: Professional dark theme
-3. **Gradianto Deep Ocean**: Ocean-inspired gradient theme
-4. **Nord Theme**: Minimalist Nordic color palette
-5. **One Dark Theme**: Popular developer-friendly dark theme
-
-Users can switch themes from the application settings for a personalized experience.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow Java naming conventions
-- Comment your code appropriately
-- Test thoroughly before submitting
-- Maintain consistent code formatting
 
 ## 📋 Future Enhancements
 
